@@ -1,0 +1,10 @@
+<template name="eventsList">
+  <h3>Hello, it's {{todaysDate}}</h3>
+  <ul>
+    {{#each evt in events}}
+      <li>
+        {{evt.title}}
+      </li>
+    {{/each}}
+  </ul>
+</template>

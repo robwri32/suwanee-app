@@ -7,37 +7,11 @@ import './main.html';
 Router.route('/', function () {
   this.layout('ApplicationLayout');
     this.render('Home');
-// api call out
-    HTTP.call( 'GET', 'http://suwaneemagazine.com/wp-json/wp/v2/posts', {}, function( error, response ) {
-   if (error) {
-      console.log(error);
-   } else {
-      console.log(response);
-    var SuwMagData = response;
-    this.SuwMagData = new ReactiveVar();
-     }
-  });
-  // close api callout
 });
 // end home
 
-// working example
 
-Router.route('/header/', function () {
-  this.layout('ApplicationLayout');
-    this.render('header');
-    var Alphas = ['ALL',
-              'A', 'B', 'C', 'D','E', 'F',
-              'G', 'H', 'I', 'J','K', 'L',
-              'M', 'N', 'O', 'P','Q', 'R',
-              'S', 'T', 'U', 'V','W', 'X',
-              'Y', 'Z'];
 
-Template.header.alphabets = function() {
-  return Alphas;
-};
-});
-// close working example
 
 Router.route('/about/', function () {
   this.layout('ApplicationLayout');
@@ -53,6 +27,10 @@ Router.route('/leaderboard/', function () {
 });
 
 
+Router.route('/backissue/', function () {
+  this.layout('ApplicationLayout');
+    this.render('backissue');
+});
 
 
 Router.route('/addpup/', function () {
@@ -68,3 +46,46 @@ Router.route('/profile/', function () {
   this.layout('ApplicationLayout');
     this.render('profile');
 });
+
+
+Router.route('/events/', function () {
+  this.layout('ApplicationLayout');
+    this.render('eventsList');
+});
+
+Router.route('/submit_article/', function () {
+  this.layout('ApplicationLayout');
+    this.render('submit_article');
+});
+
+
+
+if (Meteor.isClient) {
+  Template.backissue.rendered = function() {
+    $('#carousel').slick({
+  centerMode: true,
+  centerPadding: '60px',
+  slidesToShow: 3,
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 3
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1
+      }
+    }
+  ]
+});
+  }
+}
