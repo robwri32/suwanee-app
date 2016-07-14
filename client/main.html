@@ -110,8 +110,20 @@
   </div>
 </div>
 
-<div class="container">{{#each post in getDataFromReactiveVar}}
-   {{post.title}}
+<div class="container">
+
+  {{#each alphabets}}
+        <div class="alphabets">{{this}}</div>
+      {{/each}}
+
+
+
+  <h4>Start Dynamic Run</h4>
+
+    {{title}}
+
+  {{#each post in myVarName}}
+   {{title}}
   {{/each}}
 </div>
 
@@ -124,6 +136,14 @@
   {{autotrader}}
 
 
+</template>
+
+<template name="header">
+  <div class="header">
+    {{#each alphabets}}
+      <div class="alphabets">{{this}}</div>
+    {{/each}}
+  </div>
 </template>
 
 <template name="leaderboard">
