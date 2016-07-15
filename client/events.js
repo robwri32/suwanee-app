@@ -10,6 +10,9 @@ Template.eventsList.onCreated(function() {
 
    // http://stackoverflow.com/questions/34684488/get-data-from-anonymous-http-call
 
+   // event api end point http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event
+   // posts api end point http://suwaneemagazine.com/wp-json/wp/v2/posts
+
    var posts = require('./posts.json'); //with path
 
    instance.eventsList = new ReactiveVar(posts);
