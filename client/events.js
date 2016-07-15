@@ -10,9 +10,9 @@ Template.eventsList.onCreated(function() {
 
    // http://stackoverflow.com/questions/34684488/get-data-from-anonymous-http-call
 
+   var posts = require('./posts.json'); //with path
 
-
-   instance.eventsList = new ReactiveVar([{title: 'One'}, {title: 'Two'}]);
+   instance.eventsList = new ReactiveVar(posts);
 });
 
 Template.eventsList.onRendered(function() {
