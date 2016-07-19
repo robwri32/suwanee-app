@@ -1,4 +1,5 @@
 import { ReactiveVar } from 'meteor/reactive-var';
+import { HTTP } from 'meteor/http';
 
 Template.eventsList.onCreated(function() {
    // where you will perform some necessary, one-time startup stuff
@@ -16,7 +17,13 @@ Template.eventsList.onCreated(function() {
    var posts = require('./posts.json'); //with path
 
    instance.eventsList = new ReactiveVar(posts);
+
 });
+
+
+
+
+
 
 Template.eventsList.onRendered(function() {
   // this is where you would initialize jquery widgets in your 'eventsList' template
