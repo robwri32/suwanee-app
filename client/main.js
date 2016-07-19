@@ -2,7 +2,7 @@ import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
 
 import './main.html';
-
+import './shops.js';
 // home
 Router.route('/', function () {
   this.layout('ApplicationLayout');
@@ -20,6 +20,12 @@ Router.route('/about/', function () {
   //  console.log (autotrader)
 
 });
+
+Router.route('/shops/', function () {
+  this.layout('ApplicationLayout');
+    this.render('shops');
+});
+
 
 Router.route('/leaderboard/', function () {
   this.layout('ApplicationLayout');

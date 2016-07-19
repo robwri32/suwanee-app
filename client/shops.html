@@ -1,0 +1,73 @@
+<template name="shops">
+  <div class="container">
+    <div class="row">
+    {{#each all_shops}}
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+        <div class="circle-avatar" style="background-image:url({{image}})"></div>
+        <div class="caption">
+          <h3>{{title}}</h3>
+          <p>{{description}} </p>
+          
+          <div class="btn-group btn-group-justified" role="group" aria-label="...">
+          <a href="{{website}}" target="_blank" class="btn btn-default" role="button"><span class="" aria-hidden="true"></span>Website</a>
+             <a href="tel:{{phone}}" class="btn btn-primary" role="button"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>Phone</a>
+             <a href="#" class="btn btn-default" role="button" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-scissors" aria-hidden="true"></span>Offers</a>
+
+           </div>
+
+             <h4>Extra Data that needs to be placed</h4>
+             <p>
+               Fax:{{fax}}<br>
+               Categories:{{category}}<br>
+               Point of Contact: {{pointOfContact}}<br>
+               Hours : {{hours}}<br>
+               Facebook: {{facebook}}<br>
+               Twitter: {{twitter}}<br>
+               Instagram: {{instagram}}<br>
+               Offer Start {{offerStart}}<br>
+               Offer End {{offerEnd}}
+             </p>
+
+             <!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Offers from {{title}} </h4>
+      </div>
+      <div class="modal-body">
+        {{offer}}<br>
+        Offer Start: {{offerStart}}<br>
+        Offer End: {{offerEnd}}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+        </div>
+      </div>
+
+
+
+    </div>
+
+
+    {{/each}}
+  </div>
+    </div>
+
+
+
+
+
+
+
+
+
+</template>

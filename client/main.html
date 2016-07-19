@@ -28,7 +28,7 @@
             <div class="navbar-collapse collapse" id="navbar-main">
               <ul class="nav navbar-nav">
                 <li><a href="/about/">About</a></li>
-                <li><a href="/leaderboard/">Latest Issue</a></li>
+                <li><a href="/shops/">Business Directory</a></li>
                 <li><a href="/events/">Events</a></li>
                 <li> <a href="/backissue">Issue Archive</a></li>
                 <li><a href="/sponsor/">Advertise With Us</a></li>
@@ -53,20 +53,40 @@
     {{> yield}}
   </article>
 </div>
+<div style="height:100px;"></div>
   <footer>
 <script src="scripts.js"></script>
+    <div class="navbar navbar-inverse navbar-fixed-bottom">
+        <div class="container">
+          <div class="row row-eq-height">
+      <a href="/backissue/"><div class="col-xs-4 foot_nav_border"> <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span><br>Magazine</div></a>
+    <a href="/shops/"> <div class="col-xs-4 foot_nav_border"><span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span><br>Directory</div></a>
+      <a href="/events/"><div class="col-xs-4 foot_nav_border_none"><span class="glyphicon glyphicon-barcode" aria-hidden="true"></span><br>Contest</div></a>
+    </div>
+        </div>
+    </div>
+
   </footer>
 </template>
 
 
 
 <template name="home">
+
   <div class="jumbotron">
   <h1>Spotlight Area</h1>
   <p>This area will pull from the live site displaying recent articles and images leading to full story.</p>
   <p><a class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
+<!-- <div id="box">
+  <div id="ribbon">Cutest Puppy Contest!</div>
+</div>​
 
+<div id="box">
+  <div id="ribbon">Todays Deal.</div>
+</div>​ -->
+
+<h1> Latest Stories:</h1>
 <div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
@@ -281,31 +301,31 @@
   <p><a href="#">2016></a></p>
   <div id="carousel">
     <div>
-      <img src="images/mag_2015_may_june.png">
+      <img src="../images/mag_2015_may_june.png">
     </div>
     <div>
-      <img src="images/mag2.png">
+      <img src="../images/mag2.png">
     </div>
     <div>
-      <img src="images/mag3.png">
+      <img src="../images/mag3.png">
     </div>
     <div>
-      <img src="images/mag4.png">
+      <img src="../images/mag4.png">
     </div>
     <div>
-    <img src="images/mag2.png">
+    <img src="../images/mag2.png">
     </div>
     <div>
-    <img src="images/mag3.png">
+    <img src="../images/mag3.png">
     </div>
     <div>
-      <img src="images/mag4.png">
+      <img src="../images/mag4.png">
     </div>
     <div>
-      <img src="images/mag2.png">
+      <img src="../images/mag2.png">
     </div>
     <div>
-      <img src="images/mag3.png">
+      <img src="../images/mag3.png">
     </div>
   </div>
 

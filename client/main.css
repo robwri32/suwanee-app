@@ -8,6 +8,59 @@
     border-color: #f39c12;
 }
 
+.shop_base_split {background-color:#cccccc;height:40px; width:100%;}
+.shop_base_bottom_buttons {width:32%; border:1px solid #000000;display:inline-block;}
+.modal-dialog {padding-top: 25%;}
+.navbar-inverse {background-color: #2c3e50;}
+.row-eq-height > a > .col-xs-4 {color:#ffffff; text-align: center; margin-top:10px;}
+.foot_nav_border {border-right:1px solid #cccccc;}
+
+
+
+
+
+#box {
+    position:relative;
+    background:#2c3e50;
+    width:95%;
+    height:100px;
+    margin:20px 45px;
+}
+#ribbon {
+    position:absolute;
+    top:15px;
+    left:-20px;
+    width:360px;
+    height:55px;
+    background:#f68b1f;
+    color:white;
+    padding:10px 40px;
+    font-size:24px;
+    font-weight:bold;
+    border-radius:5px 5px 0 0;
+    box-shadow:0 0 8px #333;
+    text-shadow:0 0 8px #000;
+}
+#ribbon:before {
+    content:'';
+    position:absolute;
+    bottom:-20px;
+    left:0;
+    border-top:solid 10px #f68b1f;
+    border-right:solid 10px #f68b1f;
+    border-bottom:solid 10px transparent;
+    border-left:solid 10px transparent;
+}
+#ribbon:after {
+    content:'';
+    position:absolute;
+    bottom:-20px;
+    right:0;
+    border-top:solid 10px #f68b1f;
+    border-right:solid 10px transparent;
+    border-bottom:solid 10px transparent;
+    border-left:solid 10px #f68b1f;
+}
 
 div.circle-avatar{
 /* make it responsive */
