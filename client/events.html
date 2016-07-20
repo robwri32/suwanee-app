@@ -1,9 +1,9 @@
 <template name="eventsList">
-  <h2>Live Data through DDP from the Suwanee Magazine Wordpress Site</h2>
+  <p>Live pull from website all in one calendar, limited data available need to had plugin to pull date of event and other info. </p>
   <br>
   <hr>
   <br>
-  
+
 
 
   <div class="row">
@@ -11,18 +11,23 @@
     {{#each evt in events}}
 
 
-    <div class="col-sm-6 col-md-4">
+    <div class="container">
+  <div class="list-group">
+    <a href="#" class="list-group-item clearfix">
+      <span class="glyphicon glyphicon-calendar"></span>
+      {{evt.title.rendered}}
+      <span class="pull-right">
+    <button class="btn btn-xs btn-info calendar_button"><a href="{{evt.link}}">View Event</a></button>
 
-      <div class="thumbnail">
-        <div class="circle-avatar" style="background-image:url({{evt.featured_image_thumbnail_url}})"></div>
-        <div class="caption">
-          <h3>{{evt.title.rendered}}</h3>
-          <p>{{evt.excerpt.rendered}} </p>
-          <p><a href="{{evt.link}}" target="_blank" class="btn btn-primary pull-right" role="button">Read More</a> </p>
-          <div style="clear:both"></div>
-        </div>
-      </div>
-    </div>
+      </span>
+    </a>
+  </div>
+</div>
+
+
+
+
+
 
 
 

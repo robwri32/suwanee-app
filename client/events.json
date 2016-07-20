@@ -1,0 +1,642 @@
+[
+{
+"id": 11452,
+"date": "2016-07-07T14:09:29",
+"date_gmt": "2016-07-07T18:09:29",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11452"
+},
+"modified": "2016-07-08T12:40:20",
+"modified_gmt": "2016-07-08T16:40:20",
+"slug": "suwanee-pizza-tavern-throwdown",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/suwanee-pizza-tavern-throwdown/",
+"title": {
+"rendered": "Suwanee Pizza Tavern Throwdown"
+},
+"content": {
+"rendered": "<p class=\"p1\">Head to Suwanee Pizza Tavern THIS Saturday, starting at 7pm, for a pizza chef throw-down you don’t want to miss!! Chef Jonathan and Chef Jeremy are going head-to-head to see who can craft the best meals, including delicious seafood and steak dishes. Taste FREE samples from each chef and cast your vote to see who wins! There will also be beer &amp; wine specials, live music and more!</p>\n<p class=\"p1\">Call <a class=\"fl r-iRF9ggUoezLY\" title=\"Call via Hangouts\" data-number=\"+16785460823\" data-pstn-out-call-url=\"\" data-rtid=\"iRF9ggUoezLY\" data-ved=\"0ahUKEwjyzM-O-eHNAhXEMyYKHbtQBnUQkAgIoAEwEQ\">(678) 546-0823 for more details and information.</a></p>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11452"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11452"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11452"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 11450,
+"date": "2016-07-07T12:17:06",
+"date_gmt": "2016-07-07T16:17:06",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11450"
+},
+"modified": "2016-07-07T12:17:06",
+"modified_gmt": "2016-07-07T16:17:06",
+"slug": "woody-guthrie%e2%80%8b-birthday-show-john-mccutcheon",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/woody-guthrie%e2%80%8b-birthday-show-john-mccutcheon/",
+"title": {
+"rendered": "Woody Guthrie​ Birthday Show with JOHN MCCUTCHEON"
+},
+"content": {
+"rendered": "<table cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\"><span class=\"s1\">Including special guest Pierce Pettis</span></p>\n<p class=\"p1\"><span class=\"s1\">Johnny Cash called McCutcheon &#8220;The most impressive instrumentalist I&#8217;ve ever heard.&#8221; John has even worked in the Woody Guthrie Archives, completing some of Guthrie’s unfinished songs.</span></p>\n<p class=\"p1\"><span class=\"s1\">TIX | INFO | VIDEO:</span></p>\n<p class=\"p2\"><span class=\"s2\"><a href=\"http://public.ticketbiscuit.com/EddieOwenPresents/Events/269862\" onclick=\"return TrackClick('http%3A%2F%2Fpublic.ticketbiscuit.com%2FEddieOwenPresents%2FEvents%2F269862','http%3A%2F%2Fpublic.ticketbiscuit.com%2FEddieOwenPresents%2FEvents%2F269862')\">http://public.ticketbiscuit.com/EddieOwenPresents/Events/269862</a></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11450"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11450"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11450"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 11449,
+"date": "2016-07-07T12:14:42",
+"date_gmt": "2016-07-07T16:14:42",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11449"
+},
+"modified": "2016-07-07T12:14:42",
+"modified_gmt": "2016-07-07T16:14:42",
+"slug": "amy-black-muscle-shoals-music-revue-featuring-special-guests-christian-lopez-kyle-cox",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/amy-black-muscle-shoals-music-revue-featuring-special-guests-christian-lopez-kyle-cox/",
+"title": {
+"rendered": "Amy Black Muscle Shoals Music Revue featuring special guests CHRISTIAN LOPEZ and KYLE COX"
+},
+"content": {
+"rendered": "<table cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\"><span class=\"s1\">The Music of Muscle Shoals Revue, produced by singer/songwriter Amy Black, is a soulful celebration of some of the incredible music that came out of Muscle Shoals, Alabama in the 1960s and 70s. Amy, full-band, and often times special guests perform classic songs originally recorded in Muscle Shoals, Alabama by Otis Redding, Wilson Pickett, Rolling Stones, Aretha Franklin, Etta James, Lou Rawls, Bob Dylan and others, as well as a few originals that embody the spirit and soul of Muscle Shoals.nals that embody the spirit and soul of Muscle Shoals.</span></p>\n<p class=\"p1\"><span class=\"s1\">&#8211; TIX + INFO + VIDEO</span></p>\n<p class=\"p2\"><span class=\"s2\"><a href=\"https://public.ticketbiscuit.com/EddieOwenPresents/Events/264364\" onclick=\"return TrackClick('https%3A%2F%2Fpublic.ticketbiscuit.com%2FEddieOwenPresents%2FEvents%2F264364','https%3A%2F%2Fpublic.ticketbiscuit.com%2FEddieOwenPresents%2FEvents%2F264364')\">https://public.ticketbiscuit.com/EddieOwenPresents/Events/264364</a></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11449"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11449"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11449"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 11448,
+"date": "2016-07-07T12:12:57",
+"date_gmt": "2016-07-07T16:12:57",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11448"
+},
+"modified": "2016-07-07T12:12:57",
+"modified_gmt": "2016-07-07T16:12:57",
+"slug": "eddie-owen-presents-songwriters-open",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/eddie-owen-presents-songwriters-open/",
+"title": {
+"rendered": "Eddie Owen Presents: Songwriters Open"
+},
+"content": {
+"rendered": "<p class=\"p1\"><span class=\"s1\">Now on the 2nd and 4th Sunday of the month! Winner receives $100 dollar prize and entry into the Annual Songwriters Open Mic Shootout on Friday, November 25, 2016! FREE for participating performers.</span></p>\n<table cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td class=\"td1\" valign=\"middle\">\n<p class=\"p1\"><span class=\"s1\">NFO: <a href=\"https://eopopenmic.youcanbook.me/\" onclick=\"return TrackClick('https%3A%2F%2Feopopenmic.youcanbook.me%2F','https%3A%2F%2Feopopenmic.youcanbook.me%2F')\"><span class=\"s2\">https://eopopenmic.youcanbook.me/</span></a></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11448"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11448"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11448"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 11422,
+"date": "2016-07-06T12:26:44",
+"date_gmt": "2016-07-06T16:26:44",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11422"
+},
+"modified": "2016-07-06T17:07:39",
+"modified_gmt": "2016-07-06T21:07:39",
+"slug": "eddie-owen-presents-mulligan-brothers-special-guests-chasing-lovely",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/eddie-owen-presents-mulligan-brothers-special-guests-chasing-lovely/",
+"title": {
+"rendered": "Eddie Owen Presents: The Mulligan Brothers with special guests, Chasing Lovely"
+},
+"content": {
+"rendered": "<p>The Mulligan Brothers&#8217; sweet harmonies showcase their poetic imagery and storytelling. They bring a new twist to the americana, bluegrass, and folk genres. Chasing Lovely is a sister-dup based out of Nashville, TN.</p>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11422"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11422"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11422"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 11421,
+"date": "2016-07-06T12:25:08",
+"date_gmt": "2016-07-06T16:25:08",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11421"
+},
+"modified": "2016-07-06T17:07:14",
+"modified_gmt": "2016-07-06T21:07:14",
+"slug": "eddie-owen-presents-craig-cardiff",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/eddie-owen-presents-craig-cardiff/",
+"title": {
+"rendered": "Eddie Owen Presents: CRAIG CARDIFF"
+},
+"content": {
+"rendered": "<p>Since 1997 Canadian singer-songwriter Craig Cardiff has released 16 albums, toured the world and been nominated for multiple Juno and Canadian Folk Music Awards.<br />\nCraig Cardiff is a Canadian singer-songwriter. Known throughout Canada, Craig is developing a following throughout North America and into Europe. With guitar in hand, Craig can turn any setting into an intimate affair. Infusing his music and lyrics with an uncompromising humanism rarely seen in today’s production-heavy climate.<br />\nSongwriter, troubadour, Craig Cardiff builds landscapes of sound using live digital loops, bringing the room to a hush. Edged, folk, beautiful, melancholy and left leaning, one song breaks your heart, and the next one puts it back together.<br />\nCraig makes it a point to keep the relationship with his fans personal, inviting and accepting any opportunity to make his audience as much a part of the performance as he is. Don’t be surprised if one day you find yourself enjoying one of Craig’s renowned performances from the comfort of your own living room. Catch Craig out on the road throughout 2015 + 2016.</p>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11421"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11421"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11421"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 11418,
+"date": "2016-07-06T11:28:08",
+"date_gmt": "2016-07-06T15:28:08",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11418"
+},
+"modified": "2016-07-06T11:28:08",
+"modified_gmt": "2016-07-06T15:28:08",
+"slug": "stepping-stone-montessori-open-house-2",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/stepping-stone-montessori-open-house-2/",
+"title": {
+"rendered": "Stepping Stone Montessori Open House"
+},
+"content": {
+"rendered": "<p class=\"p1\"><span class=\"s1\">Free Open House at both campuses: Suwanee and Cumming. </span><span class=\"s2\">Parents will be given an opportunity to explore our classroom areas while the children enjoy art projects and activities.</span></p>\n<p class=\"p1\"><span>65 Peachtree Industrial Blvd, Sugar Hill, GA 30518 (Suwanee Campus)</span></p>\n<p class=\"p1\"><span>820 Sanders Rd, Cumming, GA 30041</span></p>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11418"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11418"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11418"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 11357,
+"date": "2016-06-30T14:18:32",
+"date_gmt": "2016-06-30T18:18:32",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11357"
+},
+"modified": "2016-07-06T17:06:21",
+"modified_gmt": "2016-07-06T21:06:21",
+"slug": "alive-festival-2",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/alive-festival-2/",
+"title": {
+"rendered": "Alive Festival"
+},
+"content": {
+"rendered": "<p>A Green Living Eco Products Family Festival</p>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11357"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11357"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11357"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 11178,
+"date": "2016-06-28T10:05:51",
+"date_gmt": "2016-06-28T14:05:51",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11178"
+},
+"modified": "2016-07-06T17:21:12",
+"modified_gmt": "2016-07-06T21:21:12",
+"slug": "hoofin-habitat-5k",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/hoofin-habitat-5k/",
+"title": {
+"rendered": "Hoofin for Habitat 5K"
+},
+"content": {
+"rendered": "<p>Run/Walk to benefit Gwinnett Habitat for Humanity. On-site day of registration starts at 6:30 am, 5k will begin at 7:30 am.</p>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11178"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11178"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11178"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 11177,
+"date": "2016-06-28T10:05:11",
+"date_gmt": "2016-06-28T14:05:11",
+"guid": {
+"rendered": "http://suwaneemagazine.com/?post_type=ai1ec_event&#038;p=11177"
+},
+"modified": "2016-07-06T17:22:52",
+"modified_gmt": "2016-07-06T21:22:52",
+"slug": "unite-night-walk-benefiting-csf-chiari-syringomyelia-foundation",
+"type": "ai1ec_event",
+"link": "http://suwaneemagazine.com/event/unite-night-walk-benefiting-csf-chiari-syringomyelia-foundation/",
+"title": {
+"rendered": "Unite at Night Walk Benefiting CSF (Chiari &#038; Syringomyelia Foundation)"
+},
+"content": {
+"rendered": "<p>Unite@night is a collection of a one-mile, casual evening walks around the country that bring together people who are living with the devastating effects of Chiari malformation, syringomyelia, EDS, and related disorders. </p>\n"
+},
+"author": 726,
+"featured_media": 0,
+"comment_status": "open",
+"ping_status": "closed",
+"_links": {
+"self": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event/11177"
+}
+],
+"collection": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event"
+}
+],
+"about": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/types/ai1ec_event"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/users/726"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/comments?post=11177"
+}
+],
+"wp:attachment": [
+{
+"href": "http://suwaneemagazine.com/wp-json/wp/v2/media?parent=11177"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
+]

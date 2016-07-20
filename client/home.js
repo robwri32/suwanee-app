@@ -17,7 +17,7 @@ import { HTTP } from 'meteor/http';
 //     });
 // }
 
-Template.eventsList.onCreated(function() {
+Template.home.onCreated(function() {
    // where you will perform some necessary, one-time startup stuff
    // 'this' will always refer to the Template.instance() for context
    // so you can do cool stuff on the Template.instance() itself that will only be available
@@ -35,10 +35,9 @@ Template.eventsList.onCreated(function() {
   //    console.log(res.statusCode, res.data);
   //  });
 
-   var posts = require('./events.json'); //with path
+   var posts = require('./posts.json'); //with path
 
-
-   instance.eventsList = new ReactiveVar(posts);
+   instance.home = new ReactiveVar(posts);
 
 
 });
@@ -48,7 +47,7 @@ Template.eventsList.onCreated(function() {
 
 
 
-Template.eventsList.onRendered(function() {
+Template.home.onRendered(function() {
   // this is where you would initialize jquery widgets in your 'eventsList' template
   // so this fires EVERY time the template is rendered as opposed to once like the onCreated
 
@@ -62,7 +61,7 @@ Template.eventsList.onRendered(function() {
   // so you see I'm referring to the 'eventsList' property that I put on the template instance in onCreated
   // that property is just a container/store (ReactiveVar) for my array...
   // but because it's reactive it will notify any dependants when it changes
-   console.log(Template.instance().eventsList.get())
+   console.log(Template.instance().home.get())
 });
 
 
@@ -76,10 +75,10 @@ Template.eventsList.onRendered(function() {
 // note the first one 'events' is what we have referred to in our html code's {{#each}} loop
 
 // also an example of how you can just return some simple data from javascript with todaysDate
-Template.eventsList.helpers({
+Template.home.helpers({
   events() {
     // here we just want to reference the ReactiveVar
-    return Template.instance().eventsList.get();
+    return Template.instance().home.get();
   },
   todaysDate() {
     return new Date();
@@ -88,7 +87,7 @@ Template.eventsList.helpers({
 
 // the events logic
 
-Template.eventsList.events({
+Template.home.events({
   'click button'(event, template) {
     // event is an object of the dom event fired
     // so you can refer to event.target.value if relevant etc

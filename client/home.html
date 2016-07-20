@@ -1,0 +1,32 @@
+<template name="home">
+  <h2 style="text-align:center;">Welcome Text:</h2>
+  <br>
+  <p>Highlight Area here with some nice effects to drive traffic to our main spots inside the app</p>
+  <hr>
+  <br>
+
+
+
+  <div class="row">
+
+    {{#each evt in events}}
+
+
+    <div class="col-sm-6 col-md-4">
+
+      <div class="thumbnail">
+        <div class="circle-avatar" style="background-image:url({{evt.featured_image_thumbnail_url}})"></div>
+        <div class="caption">
+          <h3>{{evt.title.rendered}}</h3>
+          <p>{{evt.excerpt.rendered}} </p>
+          <p><a href="{{evt.link}}" target="_blank" class="btn btn-primary pull-right" role="button">Read More</a> </p>
+          <div style="clear:both"></div>
+        </div>
+      </div>
+    </div>
+
+
+
+    {{/each}}
+  </div>
+</template>
