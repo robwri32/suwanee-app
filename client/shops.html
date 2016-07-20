@@ -1,5 +1,9 @@
 <template name="shops">
   <div class="container">
+    <div id="slide-panel">
+      <a href="#" class="btn btn-danger" id="opener"><i class="glyphicon glyphicon-align-justify"></i></a>
+      Panel Content
+  </div>
     <div class="row">
     {{#each all_shops}}
     <div class="col-sm-6 col-md-4">
@@ -8,7 +12,7 @@
         <div class="caption">
           <h3>{{title}}</h3>
           <p>{{description}} </p>
-          
+
           <div class="btn-group btn-group-justified" role="group" aria-label="...">
           <a href="{{website}}" target="_blank" class="btn btn-default" role="button"><span class="" aria-hidden="true"></span>Website</a>
              <a href="tel:{{phone}}" class="btn btn-primary" role="button"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>Phone</a>

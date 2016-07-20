@@ -1,6 +1,22 @@
 import { ReactiveVar } from 'meteor/reactive-var';
 import { HTTP } from 'meteor/http';
 
+// if (Meteor.isServer) {
+//     Meteor.methods({
+//         getEvents: function () {
+//             this.unblock();
+//             return Meteor.http.call("GET", "http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event");
+//         }
+//     });
+// }
+//
+// //invoke the server method
+// if (Meteor.isClient) {
+//     Meteor.call("getEvents", function(error, results) {
+//         console.log(results.content); //results.data should be a JSON object
+//     });
+// }
+
 Template.eventsList.onCreated(function() {
    // where you will perform some necessary, one-time startup stuff
    // 'this' will always refer to the Template.instance() for context
@@ -14,9 +30,15 @@ Template.eventsList.onCreated(function() {
    // event api end point http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event
    // posts api end point http://suwaneemagazine.com/wp-json/wp/v2/posts
 
+
+  //  var posts= Meteor.http.get('http://suwaneemagazine.com/wp-json/wp/v2/ai1ec_event', function (err, res) {
+  //    console.log(res.statusCode, res.data);
+  //  });
+
    var posts = require('./posts.json'); //with path
 
    instance.eventsList = new ReactiveVar(posts);
+
 
 });
 
