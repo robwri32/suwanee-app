@@ -71,7 +71,17 @@ span.glyphicon.glyphicon-calendar {font-size: 28px;float: left;color: #f68b1f;}
     border-bottom:solid 10px transparent;
     border-left:solid 10px #f68b1f;
 }
+#login-overlay {
+opacity: 0.9;
+width:100%;
+}
 
+
+#login-overlay {padding-top:2%;}
+
+
+.form-group.last { margin-bottom:0px; }
+.login-form { margin-left: 5px; }
 
 .event-list {
 list-style: none;
