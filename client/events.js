@@ -36,11 +36,10 @@ Template.eventsList.onCreated(function() {
   //  });
 
    var posts = require('./events.json'); //with path
+   
 
 
-   instance.eventsList = new ReactiveVar(posts);
-
-
+   instance.eventsList = new ReactiveVar (posts);
 });
 
 
